@@ -1,0 +1,2 @@
+# a_hybrid_genetic_tabu_search_algorithm_for_distributed_job-shop_scheduling_problems
+BLM5004 Sezgiseller dersi YL
